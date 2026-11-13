@@ -1,13 +1,9 @@
-# AI or Human?
+# AI or Human?😄😄😄😄
 
 An 8-round flashcard-style quiz that runs entirely in the browser, testing whether players can tell if short snippets were written by a human or an AI, while rewarding smart doubt on ambiguous text.
 
 ## Live Preview
-`<Add your Vercel/Netlify URL here>`
-
-## Screenshots
-- `docs/proof/main-flow.png` (Screenshot to be added by the author)
-- `docs/proof/result-state.png` (Screenshot to be added by the author)
+`https://ai-or-human-eight.vercel.app/`
 
 ## Working Features
 - **Home Landing Page:** An engaging introduction featuring hero typography, floating snippet cards, interactive tiles explaining each choice, rules overview, and a direct `Start Game →` button.
